@@ -1,0 +1,54 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Your Name - STS Scholar in Critical Data Studies</title>
+    <!-- Add links to CSS stylesheets and any fonts here -->
+</head>
+<body>
+    <header>
+        <h1>Your Name</h1>
+        <p>STS Scholar in Critical Data Studies</p>
+        <!-- Navigation menu -->
+        <nav>
+            <ul>
+                <li><a href="#about">About Me</a></li>
+                <li><a href="#research">Research</a></li>
+                <li><a href="#publications">Publications</a></li>
+                <li><a href="#teaching">Teaching</a></li>
+                <li><a href="#contact">Contact</a></li>
+            </ul>
+        </nav>
+    </header>
+
+    <section id="about">
+        <h2>About Me</h2>
+        <p>Brief biography and academic background.</p>
+    </section>
+
+    <section id="research">
+        <h2>Research Interests</h2>
+        <p>Overview of your research in critical data studies and any ongoing projects.</p>
+    </section>
+
+    <section id="publications">
+        <h2>Publications</h2>
+        <p>List of your academic publications, papers, and articles.</p>
+    </section>
+
+    <section id="teaching">
+        <h2>Teaching Experience</h2>
+        <p>Information about courses taught, teaching philosophy, and student feedback (if available).</p>
+    </section>
+
+    <section id="contact">
+        <h2>Contact</h2>
+        <p>Professional contact information and links to academic social media profiles.</p>
+    </section>
+
+    <footer>
+        <p>© 2023 Your Name. All rights reserved.</p>
+    </footer>
+</body>
+</html>
